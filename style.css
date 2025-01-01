@@ -382,7 +382,7 @@ article .icon {
     border-color: rgb(163,163,163);
 }
 
-/* CONTACTS */
+/* CONTACTS SECTION*/
 
 #contact{
     display: flex;
@@ -421,4 +421,15 @@ article .icon {
 
 .email-icon{
     height: 2.5rem;
+}
+
+/* FOOTER SECTION */
+
+footer{
+    height: 26vh;
+    margin: 0 1rem;
+}
+
+footer p{
+    text-align: center;
 }
